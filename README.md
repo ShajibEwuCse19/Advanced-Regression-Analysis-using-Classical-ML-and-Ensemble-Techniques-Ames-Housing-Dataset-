@@ -275,6 +275,18 @@ The final comparison notebook exports visual and tabular results into the report
 - `reports/figures/model_accuracy_comparison.png`
 - `reports/figures/model_rmse_comparison.png`
 
+#### Model Comparison Dashboard
+
+<img src="reports/figures/model_comparison_dashboard.png" alt="Model Comparison Dashboard" width="700">
+
+#### Model Accuracy Comparison
+
+<img src="reports/figures/model_accuracy_comparison.png" alt="Model Accuracy Comparison" width="700">
+
+#### Model RMSE Comparison
+
+<img src="reports/figures/model_rmse_comparison.png" alt="Model RMSE Comparison" width="700">
+
 ### Results
 
 - `reports/results/model_comparison_summary.csv`
