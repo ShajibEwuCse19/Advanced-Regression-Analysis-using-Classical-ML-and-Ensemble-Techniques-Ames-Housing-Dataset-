@@ -27,14 +27,14 @@ This repository is especially strong for a CV, higher study application, or acad
 
 ## Project Highlights
 
-| Area | What This Project Shows |
-|---|---|
-| Data Work | cleaning, preprocessing, train-validation splitting, scaled features |
-| Algorithm Depth | custom linear regression from scratch |
-| ML Benchmarking | KNN, Linear Regression, Decision Tree, SVM, Random Forest |
-| Ensemble Learning | AdaBoost, Bagging, Stacking, Voting |
-| Reporting | comparison dashboard, exported PNG figures, CSV summary tables |
-| Portfolio Value | strong evidence of applied ML workflow and model evaluation discipline |
+| Area              | What This Project Shows                                                |
+| ----------------- | ---------------------------------------------------------------------- |
+| Data Work         | cleaning, preprocessing, train-validation splitting, scaled features   |
+| Algorithm Depth   | custom linear regression from scratch                                  |
+| ML Benchmarking   | KNN, Linear Regression, Decision Tree, SVM, Random Forest              |
+| Ensemble Learning | AdaBoost, Bagging, Stacking, Voting                                    |
+| Reporting         | comparison dashboard, exported PNG figures, CSV summary tables         |
+| Portfolio Value   | strong evidence of applied ML workflow and model evaluation discipline |
 
 ## Best Validation Result
 
@@ -281,25 +281,6 @@ The final comparison notebook exports visual and tabular results into the report
 - `reports/results/model_comparison_ranking.csv`
 - `reports/results/model_comparison_summary.md`
 
-## Why This Project Is Valuable For Higher Study Or CV Use
-
-This project is a strong academic and professional showcase because it combines:
-
-- mathematical understanding through manual model implementation
-- practical ML engineering with scikit-learn
-- model benchmarking discipline
-- reproducible artifact saving
-- polished reporting outputs for presentation
-- a complete end-to-end workflow from raw data to final comparison
-
-If you are presenting this in a CV, SOP, or graduate portfolio, you can describe it as:
-
-> Developed an end-to-end housing price regression benchmark on the Ames Housing dataset, including custom linear regression, classical regression models, ensemble methods, model serialization, and report-ready comparative analysis.
-
-## Suggested CV Bullet
-
-- Built an end-to-end machine learning regression benchmark on the Ames Housing dataset using manual linear regression, classical ML models, and ensemble learning, achieving a best validation `R2 Score` of `0.8877` with a Stacking Regressor and producing reusable model artifacts and report visualizations.
-
 ## Future Improvements
 
 - add hyperparameter tuning with `GridSearchCV` or `RandomizedSearchCV`
@@ -307,7 +288,3 @@ If you are presenting this in a CV, SOP, or graduate portfolio, you can describe
 - add feature importance analysis and SHAP-based interpretability
 - export final Kaggle submission files automatically
 - convert the notebook workflow into a Python package or pipeline script
-
-## Author Note
-
-This repository is structured not only as a learning project, but as a serious regression benchmarking portfolio piece. The notebook flow, saved models, and report outputs are intended to make the work easy to inspect, reproduce, and present.
