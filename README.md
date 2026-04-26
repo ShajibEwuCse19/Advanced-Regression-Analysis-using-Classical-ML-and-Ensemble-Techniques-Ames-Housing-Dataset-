@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  A portfolio-ready machine learning project built on the <strong>Ames Housing</strong> dataset, designed to show end-to-end regression workflow, model engineering, evaluation, reporting, and comparison.
+  This is a machine learning project built on the <strong>Ames Housing</strong> dataset, designed to show end-to-end regression workflow, model engineering, evaluation, reporting, and comparison.
 </p>
 
 ## Project Overview
